@@ -18,6 +18,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - The directory structure is designed to mirror the structure of Khan Academy subjects.
 - Each Khan Academy video is given a dedicated Markdown page.
 - Each page should have the same title as the video it is summarising.
-- The video should be embedded at the top of the page using the official Khan Academy embed guidlines.
+- The video should be embedded at the top of the page using the official Khan Academy [embed guidlines](https://www.khanacademy.org/about/blog/post/29139422372/embeddable-khan-academy-video-player).
 
 Please read Khan Academy's [official guidelines](https://khanacademy.zendesk.com/hc/en-us/articles/202262954-Can-I-use-Khan-Academy-s-videos-name-materials-links-) for third party remixing.
